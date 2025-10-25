@@ -67,5 +67,5 @@ Run the scripts in sequence:
 
 ## Acknowledgments
 ### Dataset: UCI Machine Learning Repository.
-[Link Text](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
+[Dataset](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 ### Inspired by similar educational ML projects on GitHub.
