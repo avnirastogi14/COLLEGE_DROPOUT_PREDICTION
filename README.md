@@ -1,7 +1,6 @@
 # UCI Student Dropout Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project implements a machine learning pipeline to predict student dropout and academic success based on the UCI "Predict Students' Dropout and Academic Success" dataset. It covers data cleaning, visualization of raw and cleaned data, exploratory data analysis (EDA), model building with classifiers like Logistic Regression, Random Forest, and Gradient Boosting, hyperparameter tuning, feature importance, and prediction for new students. The best model (typically Random Forest) is saved for deployment, and insights highlight academic grades and financial stability as top predictors.
 
@@ -66,6 +65,6 @@ Run the scripts in sequence:
 - Challenges: Class imbalance affects minority class recall; addressed partially via stratification.
 
 ## Acknowledgments
-### Dataset: UCI Machine Learning Repository.
+- Dataset: UCI Machine Learning Repository.
 [Dataset](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
-### Inspired by similar educational ML projects on GitHub.
+- Inspired by similar educational ML projects on GitHub.
